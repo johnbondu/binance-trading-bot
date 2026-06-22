@@ -15,7 +15,7 @@ The bot supports:
 ---
 
 ## Technologies Used
-
+#these are the technologies which i used in this application
 - Python 3
 - python-binance
 - argparse
