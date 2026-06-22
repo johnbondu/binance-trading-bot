@@ -1,7 +1,7 @@
 #These is the backend code and main code 
 import argparse
 import logging
-
+#here we are importing moduels to work easy
 from bot.orders import place_market_order, place_limit_order
 from bot.validators import validate_side, validate_order_type
 from bot.logging_config import *
