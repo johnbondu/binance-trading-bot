@@ -60,7 +60,7 @@ try:
     print("Order Type:", response.get('type'))
 
     logging.info(f"SUCCESS RESPONSE: {response}")
-
+#these is  exception block
 except Exception as e:
 
     logging.error(f"ERROR: {str(e)}")
