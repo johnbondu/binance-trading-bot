@@ -20,7 +20,7 @@ The bot supports:
 - python-binance
 - argparse
 - logging
-- python-dotenv
+- python-dotenv.....
 
 ---
 
