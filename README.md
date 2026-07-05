@@ -10,7 +10,7 @@ The bot supports:
 - CLI-based user input
 - Logging
 - Input validation
-- Exception handling
+- Exception handling......
 
 ---
 
