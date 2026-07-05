@@ -12,7 +12,7 @@ The bot supports:
 - Input validation
 - Exception handling
 
----
+---;;;;;;
 
 ## Technologies Used
 #these are the technologies which i used in this application
