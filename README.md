@@ -4,7 +4,7 @@
 
 This project is a Python CLI Trading Bot that connects to Binance Futures Testnet and places MARKET and LIMIT orders.
 
-The bot supports:.....
+The bot supports:
 - BUY and SELL orders
 - MARKET and LIMIT order types
 - CLI-based user input
